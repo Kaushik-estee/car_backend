@@ -40,7 +40,7 @@
     "relativeProduct2":2,
     "relativeProduct3":3,
     "relativeProduct4":4,
-    "booked": "no"
+    "booked": "yes"
       },
       {
         "id": 3,
@@ -61,7 +61,7 @@
     "relativeProduct2":2,
     "relativeProduct3":3,
     "relativeProduct4":4,
-    "booked": "no"
+    "booked": "yes"
       },
       {
         "id": 4,
@@ -145,7 +145,7 @@
     "relativeProduct2":2,
     "relativeProduct3":3,
     "relativeProduct4":4,
-    "booked": "no"
+    "booked": "yes"
       },
       {
         "id": 8,
@@ -208,7 +208,7 @@
     "relativeProduct2":2,
     "relativeProduct3":3,
     "relativeProduct4":4,
-    "booked": "no"
+    "booked": "yes"
       },
       {
         "id": 11,
@@ -271,7 +271,7 @@
     "relativeProduct2":2,
     "relativeProduct3":3,
     "relativeProduct4":4,
-    "booked": "no"
+    "booked": "yes"
       },
       {
         "id": 14,
@@ -334,7 +334,7 @@
     "relativeProduct2":2,
     "relativeProduct3":3,
     "relativeProduct4":4,
-    "booked": "no"
+    "booked": "yes"
       },
       {
         "id": 17,
@@ -419,7 +419,7 @@
     "relativeProduct2":2,
     "relativeProduct3":3,
     "relativeProduct4":4,
-    "booked": "no"
+    "booked": "yes"
       }
     ]
   }
