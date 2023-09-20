@@ -45,7 +45,7 @@
       {
         "id": 3,
         "year": 2014,
-    "make": "AUDI",
+    "make": "TATA",
    "model": "X3",
     "kms": 40000,
     "transmission": "AUTOMATIC",
@@ -66,7 +66,7 @@
       {
         "id": 4,
         "year": 2015,
-    "make": "BMW",
+    "make": "MAHINDRA",
    "model": "X3",
     "kms": 50000,
     "transmission": "MANUAL",
@@ -87,7 +87,7 @@
       {
         "id": 5,
         "year": 2016,
-    "make": "AUDI",
+    "make": "RENAULT",
    "model": "X3",
     "kms": 8000,
     "transmission": "AUTOMATIC",
@@ -108,7 +108,7 @@
       {
         "id": 6,
         "year": 2017,
-    "make": "BMW",
+    "make": "DATSON",
    "model": "X3",
     "kms": 11000,
     "transmission": "MANUAL",
@@ -129,7 +129,7 @@
       {
         "id": 7,
         "year": 2018,
-    "make": "BMW",
+    "make": "HONDA",
    "model": "X4",
     "kms": 32000,
     "transmission": "MANUAL",
@@ -150,7 +150,7 @@
       {
         "id": 8,
         "year": 2019,
-    "make": "AUDI",
+    "make": "TOYOTA",
    "model": "X3",
     "kms": 17000,
     "transmission": "AUTOMATIC",
@@ -171,7 +171,7 @@
       {
         "id": 9,
         "year": 2022,
-    "make": "BMW",
+    "make": "KIA",
    "model": "X3",
     "kms": 25000,
     "transmission": "MANUAL",
@@ -192,7 +192,7 @@
       {
         "id": 10,
         "year": 2021,
-    "make": "AUDI",
+    "make": "FORD",
    "model": "x3",
     "kms": 42000,
     "transmission": "MANUAL",
@@ -213,7 +213,7 @@
       {
         "id": 11,
         "year": 2020,
-    "make": "AUDI",
+    "make": "DATSON",
    "model": "X3",
     "kms": 58000,
     "transmission": "MANUAL",
@@ -234,7 +234,7 @@
       {
         "id": 12,
         "year": 2019,
-    "make": "AUDI",
+    "make": "HONDA",
    "model": "X3",
     "kms": 71000,
     "transmission": "AUTOMATIC",
@@ -255,7 +255,7 @@
       {
         "id": 13,
         "year": 2018,
-    "make": "AUDI",
+    "make": "TATA",
    "model": "X3",
     "kms": 87000,
     "transmission": "MANUAL",
@@ -276,7 +276,7 @@
       {
         "id": 14,
         "year": 2017,
-    "make": "AUDI",
+    "make": "MAHINDRA",
    "model": "X3",
     "kms": 12300,
     "transmission": "MANUAL",
@@ -297,7 +297,7 @@
       {
         "id": 15,
         "year": 2016,
-    "make": "AUDI",
+    "make": "KIA",
    "model": "X3",
     "kms": 28000,
     "transmission": "AUTOMATIC",
